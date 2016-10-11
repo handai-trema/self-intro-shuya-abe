@@ -22,5 +22,5 @@ OpenFlowについては興味を持ってlいました。
 実際に触ったことはないので、今回の授業でOpenFlowへの理解が進めばよいなと思っております。
 
 ##課題レポートへのリンク
-[課題1 スイッチの切断イベント](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1-2.md)
-[課題2 Hello Trema](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1-3.md)
+* [課題1 スイッチの切断イベント](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1_2.md)  
+* [課題2 Hello Trema](https://github.com/handai-trema/hello-trema-shuya-abe/blob/master/Report1_3.md)
